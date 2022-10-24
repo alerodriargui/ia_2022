@@ -1,3 +1,6 @@
+import sys
+sys.path.append('C:\\Users\\Alex\\ia_2022')
+
 from practica1 import agent, joc
 
 
