@@ -1,3 +1,6 @@
+import sys
+sys.path.append("C:\\Users\\alero\\OneDrive\\Documents\\GitHub\\ia_2022")
+
 from practica1 import agent, joc
 
 
