@@ -1,5 +1,5 @@
 import sys
-sys.path.append("C:\\Users\\alero\\OneDrive\\Documents\\GitHub\\ia_2022")
+sys.path.append("C:\\Users\\alero\\OneDrive\\Documents\\GitHub\\ia_2022\\practica1")
 
 
 from practica1 import agent, joc
